@@ -95,7 +95,7 @@
    "update_icon":"",
    "update_message":"Update message",
    "update_force":false,
-   "update_versionCode":2,
+   "update_versionCode":1,
    "playstore_link":"",
    "download_link":"",
    "noti_icon":"https://i.giphy.com/AWNxDbtHGIJDW.webp",
@@ -103,7 +103,7 @@
    "noti_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRTZA45Suwf1hcwCZRsYm7ffUpnFCxiyaI3oA_zk9AS70-1S9oGZvBmkIcB1423yVIO7DmF05J-XqQxVkLZlcrLEvM1NLOTm4IB0sXSjvHM_YgxNHFerPt3tHeiOlsBnN_fCuuemEy99KkTy-04wZfS-uKBP7_dm1Mj5Ix-OwqDDOLu5bLlF6nRNJ915I/s1600/20231231_122716.jpg",
    "noti_message":"Adminတို့က မြန်မာကားကြိုက်တဲ့သူတွေအတွက် လှပျိုဆိုတဲ့ ဆော့ဝဲလ်တစ်ခုဖန်တီးပေးထားပါတယ်။ \\လုံးဝဖရီးပါ။\\👇👇အောက်က ဒေါင်းမည်နှိပ်ပီးဒေါင်းပါ...\nThanks.",
    "show_cancel":true,
-   "noti_show":true,
+   "noti_show":false,
    "noti_done_text":"ဒေါင်းမည်",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.hlapyo"
 }
