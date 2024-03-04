@@ -25,43 +25,115 @@
    ],
    "home_adview_1":[
       {
-         "image_url":"https://i.giphy.com/xcXCzwffJCkda.webp",
-         "title":"ဆက်ဆီအလှများကြည့်ရန်,အိုးလှလှလေးကြည့်ရန်,အကိတ်မမများ",
-         "actiontitle":"Telegram",
-         "url":"https://t.me/mmdarklandshort"
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
       }
    ],
    "home_adview_2":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "home_adview_3":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
+   ],
+     "home_adview_4":[
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
+   ],
+   "home_adview_5":[
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
+   ],
+   "home_adview_6":[
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
+   ],
+     "home_adview_7":[
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "player_loader_adviews":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "detail_top_adviews":[
-      {
-         "image_url":"https://i.giphy.com/AWNxDbtHGIJDW.webp",
-         "title":"မြန်မာအောကားတွေကြည့်ဖို့\nအခုပဲ့ဒေါင်းထားလိုက်\nဖရီးရတုန်းလေး ဒေါင်းထားလိုက်တော့",
-         "actiontitle":"ဒေါင်းမည်",
-         "url":"https://play.google.com/store/apps/details?id=com.dl.dlent.hlapyo"
+     {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
       }
    ],
    "detail_bottom_adviews":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "movies_bottom":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "home_bottom":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "movies_download":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "link_download":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "cast_title":"Popular Star",
    "cast_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/cast.json",
