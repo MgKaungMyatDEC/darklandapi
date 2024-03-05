@@ -19,25 +19,37 @@
   #HCB_comment_box #hcb_form_email,
   #HCB_comment_box #hcb_form_name,
   #HCB_comment_box #hcb_form_website {
-    background-color:#ffd;
+    background-color:rgb(221, 241, 255);
   }
   #HCB_comment_box textarea {
+    
     height:400px;
   }
   #HCB_comment_box blockquote {
-    color:red;
+    color:rgb(241, 242, 198);
+    
   }
   #HCB_comment_box .text-blur {
-    color:red;
+    color:rgb(255, 213, 0);
   }
   #HCB_comment_box .text-focus {
-    color:darkred;
+    color:rgb(139, 118, 0);
   }
   #HCB_comment_box .submit {
     background:none; /* Clear twitter bootstrap style. */
     background-color:green;
     border:1px solid darkgreen;
     color: white;
+    
+  }
+  #hcb_file_label{
+    visibility:hidden;
+  }
+  .home-desc{
+    visibility:hidden;
+  }
+ input#hcb_submit{
+  width: 100%;
   }
   #HCB_comment_box {
     color:white;
@@ -65,10 +77,26 @@
     font-size: 16px; /* Adjust the value depending on wanted text size */
   }
   input#hcb_form_name {
-    color:blue;
+    color:rgb(20, 20, 54);
     font-size:18px;
     background-color:darkgreen;
   }
+  div.comment {
+  /* This is the card container with an id attribute. */
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  padding: 5px;
+  margin-left: 10px;
+  min-width: 300px; /* Adjust the width as needed */
+}
+img.hcb-icon{
+  width: 40px;
+  height: 40px;
+  
+}
+ 
     </style>
 </head>
 <body>
@@ -84,11 +112,11 @@
     hcb_user = {
         /* L10N */
         comments_header : 'Message',
-        name_label : 'Name',
-        content_label: 'Enter your message here',
-        submit : 'Send',
-        logout_link : '<img title="log out" src="https://www.htmlcommentbox.com/static/images/door_out.svg" alt="[logout]" class="hcb-icon hcb-door-out"/>',
-        admin_link : '<img src="https://www.htmlcommentbox.com/static/images/door_in.svg" alt="[login]" class="hcb-icon hcb-door-in"/>',
+        name_label : 'နာမည်',
+        content_label: 'စာပို့ရန်‌ရေးပါ',
+        submit : '             ပို့မည်              ',
+        logout_link : '',
+        admin_link : '',
         no_comments_msg: 'No one has message yet. Be the first!',
         add:'Send your message',
         again: 'New message',
@@ -96,19 +124,19 @@
         said:'said:',
         prev_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_left.png" class="hcb-icon" title="previous page" alt="[prev]"/>',
         next_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_right.png" class="hcb-icon" title="next page" alt="[next]"/>',
-        showing:'Showing',
+        showing:'နောက်ထပ်စာများဖတ်ရန် ဘေးကမြှားကိုနှိပ်ပါ',
         to:'to',
         website_label:'website (optional)',
         email_label:'email',
-        anonymous:'Anonymous',
+        anonymous:'အမည်မသိအခုစာဆို',
         mod_label:'',
         subscribe:'Email Me Replies',
-        add_image:'Add Image',
+        add_image:'',
         are_you_sure:'Do you want to flag this comment as inappropriate?',
     
         reply:'Reply',
-        flag:'Flag',
-        like:'Like',
+        flag:'',
+        like:'Like    ',
     
         /* dates */
         days_ago:'days ago',
@@ -116,14 +144,14 @@
         minutes_ago:'minutes ago',
         within_the_last_minute:'Just Now',
     
-        msg_thankyou:'Thank you for messagging!',
+        msg_thankyou:'Massage ပို့ပေးလို့ကျေးဇူးပါ',
         msg_approval:'NOTE: This message is not published until approved',
         msg_approval_required:'Thank you for commenting! Your message will appear once approved by a moderator.',
     
         err_bad_html:'Your message contained bad html.',
         err_bad_email:'Please enter a valid email address.',
         err_too_frequent:'You must wait a few seconds between posting comments.',
-        err_comment_empty:'Your message was not posted because it was empty!',
+        err_comment_empty:'စာပို့ရန် တစ်ခုခုရေးပါ',
         err_denied:'Your message was not accepted.',
         err_unknown:'Your message was blocked for unknown reasons, please report this.',
         err_spam:'Your message was detected as spam.',

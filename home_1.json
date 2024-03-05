@@ -1,10 +1,17 @@
 {
    "ad_type":"startapp",
-   "startapp_ad_duration":"1000",
+   "startapp_ad_duration":"60000",
    "startapp_add":"true",
    "startapp_home_adview_1":"false",
    "startapp_home_adview_2":"false",
    "startapp_home_adview_3":"false",
+   "startapp_home_adview_4":"false",
+   "startapp_home_adview_5":"false",
+   "startapp_home_adview_6":"false",
+   "startapp_home_adview_7":"false",
+   "startapp_home_adview_8":"false",
+   
+   
    "startapp_player_loader_adviews":"false",
    "startapp_detail_top_adviews":"false",
    "startapp_detail_big_adviews":"false",
@@ -12,8 +19,8 @@
    "startapp_movies_bottom":"false",
    "startapp_home_bottom":"false",
    "startapp_movies_download":"false",
-   "startapp_link_download":"true",
-   "remove_ads_url":"https://darklandadmin.github.io/darkland/",
+   "startapp_link_download":"false",
+   "remove_ads_url":"https://mmdarkland.xyz/",
    "vip_list_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/vipkey.json",
    "vip_add_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9eX_ksAiTAJFYpUsiZv1v22FkNM_-cxCql01eMvZ7kCqH7sAqCOYpYKS0rc2bqbJFIzEA-5LCbHO02oM4eXF4BYPByBfngIgSMiAoi9OG_OqZkcoq5qYOnsbwxqVbQ8d0t6yNvYkddC2vkMw9wNJShYqrqknTymEE6QVCpInjen5rgZf508It9fjS0o/s1600/20231120_215207.jpg",
    "vip_add_url":"",
@@ -25,10 +32,10 @@
    ],
    "home_adview_1":[
       {
-         "image_url":"https://i.giphy.com/xcXCzwffJCkda.webp",
-         "title":"ဆက်ဆီအလှများကြည့်ရန်,အိုးလှလှလေးကြည့်ရန်,အကိတ်မမများ",
-         "actiontitle":"Telegram",
-         "url":"https://t.me/mmdarklandshort"
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/"
       }
    ],
    "home_adview_2":[
@@ -37,19 +44,35 @@
    "home_adview_3":[
       
    ],
+     "home_adview_4":[
+      
+   ],
+   "home_adview_5":[
+      
+   ],
+   "home_adview_6":[
+      
+      
+   ],
+     "home_adview_7":[
+       
+   ],
+    "home_adview_8":[
+     
+   ],
    "player_loader_adviews":[
       
    ],
    "detail_top_adviews":[
-      {
-         "image_url":"https://i.giphy.com/AWNxDbtHGIJDW.webp",
-         "title":"မြန်မာအောကားတွေကြည့်ဖို့\nအခုပဲ့ဒေါင်းထားလိုက်\nဖရီးရတုန်းလေး ဒေါင်းထားလိုက်တော့",
-         "actiontitle":"ဒေါင်းမည်",
-         "url":"https://play.google.com/store/apps/details?id=com.dl.dlent.hlapyo"
+     {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/"
       }
    ],
    "detail_bottom_adviews":[
-      
+     
    ],
    "movies_bottom":[
       
@@ -61,38 +84,44 @@
       
    ],
    "link_download":[
-      
+      {
+         "image_url":"https://www.dropbox.com/scl/fi/kgqa6es19y5f6klk79rj3/1704085452857.jpg?rlkey=52rs78o137fldcqd8alsb9l0d&dl=1",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/"
+      }
    ],
-   "cast_title":"Popular Star",
+   "cast_title":"Movies List",
    "cast_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/cast.json",
    "show_title_1":"JAV VIP 🔑🔥",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipjapan/vipjapan",
-   "movie_category_url_1":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
+   "movie_category_url_1":"",
    "vip_1":"true",
-   "show_title_2":"Free Jav",
-   "movie_url_2":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/japan/japan",
-   "movie_category_url_2":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
-   "vip_2":"true",
+   "show_title_2":"Korea Free",
+   "movie_url_2":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/korea/korea",
+   "movie_category_url_2":"",
+   "vip_2":"false",
    "show_title_3":"USA VIP",
    "movie_url_3":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipusa/vipusa",
-   "movie_category_url_3":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
+   "movie_category_url_3":"",
    "vip_3":"true",
    "show_title_4":"China VIP",
    "movie_url_4":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipchina/vipchina",
-   "movie_category_url_4":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
+   "movie_category_url_4":"",
    "vip_4":"true",
-   "show_title_5":"Myanmar sex story",
-   "movie_url_5":"https://myanmarsexstory.com/category/japan22/",
-   "movie_category_url_5":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
-   "vip_5":"false",
-   "show_title_6":"All Movies",
-   "movie_url_6":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/all/all",
-   "movie_category_url_6":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/Maynoe.com",
+   "show_title_5":"Korea VIP",
+   "movie_url_5":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipkorea/vipkorea",
+   "movie_category_url_5":"",
+   "vip_5":"true",
+   "show_title_6":"JAV Free",
+   "movie_url_6":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/japan/japan",
+   "movie_category_url_6":"",
    "vip_6":"false",
    "show_title_7":"Anime Free",
    "movie_url_7":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/anime/anime",
-   "movie_category_url_7":"https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/category/foryou.category",
+   "movie_category_url_7":"",
    "vip_7":"false",
+   
    "update_title":"Update title",
    "update_icon":"",
    "update_message":"Update message",

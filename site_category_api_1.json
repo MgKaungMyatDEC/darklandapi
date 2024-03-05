@@ -1,11 +1,5 @@
 [
-   {
-      "image":"",
-      "title":"AK Dark\n✅စာတန်းထိုးနှင့်မြန်မာကားစုံ",
-      "native_support":true,
-      "label":"ak_dark",
-      "link":"https://akchannel-2022.blogspot.com/feeds/posts/default/?q=label:ak_home_mix&alt=json"
-   },
+  
    {
       "image":"https://i.imgur.com/AU011VJ.png",
       "title":"May Noe [အပြာကား]",
@@ -13,7 +7,7 @@
       "label":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/maynoe.com",
       "link":"https://maynoe.com/"
    },
- { "image":"", "title":"XBurma", "native_support":true, "label":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/category/xburma.category", "link":"https://www.xburma.com/latest-updates/" },
+ { "image":"https://img.freepik.com/free-photo/portrait-young-female-model-with-perfect-skin-posing-fashion-isolated-white-background_1150-63234.jpg?size=626&ext=jpg&ga=GA1.1.1838274543.1709459695&semt=ais", "title":"XBurma", "native_support":true, "label":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/category/xburma.category", "link":"https://www.xburma.com/latest-updates/" },
    {
       "image":"https://i.imgur.com/RgqAE64.png",
       "title":"Eporner ( VPNလိုသည်) ",
@@ -49,13 +43,7 @@
       "native_support":true,
       "link":"https://myanmarsexstory.com/category/japan22/"
    },
-   {
-      "image":"https://i.imgur.com/yLHWChI.png",
-      "title":"Apyar Tv\nမြန်မာ အပြာကားအစုံ🔥 ",
-      "native_support":true,
-      "label":"apyartv",
-      "link":"https://apyar.tv/"
-   },
+ 
    {
       "image":"https://imgur.com/ANZrN6h.png",
       "title":"Mmporn\n မြန်မာပွန်း 🔥",
@@ -63,14 +51,37 @@
       "label":"mmporn",
       "link":"https://mmporns.com/"
    },
+
+
    {
-      "image":"https://i.imgur.com/lVNjpah.png",
-      "title":"AK dark channel 🔥\n ဂျပန်မြန်မာစာတန်းထိုး",
+      "image":"https://img.freepik.com/free-photo/woman-bed_144627-41930.jpg?size=626&ext=jpg&ga=GA1.1.1838274543.1709459695&semt=ais",
+      "title":"MM HD Hub",
+      "native_support":true,
       "label":"",
-      "native_support":false,
-      "link":"https://akdark1001010.blogspot.com/?m=1#"
+      "link":"https://mmhdhub.com/archives/category/myanmar"
    },
    {
+      "image":"https://img.freepik.com/free-photo/young-beautiful-woman-posing-white-wall_1153-6571.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"SaMusar",
+      "native_support":true,
+      "label":"",
+      "link":"https://www.samusar.com/latest-updates/"
+   },
+   {
+      "image":"https://img.freepik.com/premium-photo/young-beautiful-brunette-woman-white-top-blue-jeans-black-background_947073-15378.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"Founddie",
+      "native_support":true,
+      "label":"",
+      "link":"https://founddie.com/archives/category/homemade/"
+   },
+   {
+      "image":"https://img.freepik.com/premium-photo/high-fashion-perfect-slim-fit-body-beautiful-face-young-elegant-asian-woman-sexy-black-dress-dark-grey-isolated-background-plastic-surgery-cosmetology_555986-2458.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"Loemal",
+      "native_support":true,
+      "label":"",
+      "link":"https://loemal.com/"
+   },
+      {
       "image":"https://i.imgur.com/sc4LPM1.png",
       "title":"မြမြကားအစုံ( VPN လိုသည်)",
       "label":"",
@@ -83,47 +94,6 @@
       "label":"darktv2",
       "native_support":false,
       "link":"https://darktv45.blogspot.com/?m=1"
-   },
-   {
-      "image":"https://i.imgur.com/lsI6KKC.png",
-      "title":"PornHub\nပွန်းဟပ် အပြာကားကောင်းများ🔥",
-      "native_support":false,
-      "label":"",
-      "link":"https://pornhub01001010.blogspot.com/"
-   },
-   {
-      "image":"https://i.imgur.com/DV9617a.png",
-      "title":"See More..... \n‌ အပြာကားနှင့် အပြာရုပ်ပြစာအုပ်",
-      "native_support":false,
-      "label":"",
-      "link":"https://akweb01001010.blogspot.com/"
-   },
-   {
-      "image":"",
-      "title":"MM HD Hub",
-      "native_support":true,
-      "label":"",
-      "link":"https://mmhdhub.com/archives/category/myanmar"
-   },
-   {
-      "image":"",
-      "title":"SaMusar",
-      "native_support":true,
-      "label":"",
-      "link":"https://www.samusar.com/latest-updates/"
-   },
-   {
-      "image":"",
-      "title":"Founddie",
-      "native_support":true,
-      "label":"",
-      "link":"https://founddie.com/archives/category/homemade/"
-   },
-   {
-      "image":"",
-      "title":"Loemal",
-      "native_support":true,
-      "label":"",
-      "link":"https://loemal.com/"
    }
+
 ]
