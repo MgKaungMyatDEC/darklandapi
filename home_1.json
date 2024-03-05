@@ -100,7 +100,7 @@
    "show_title_2":"USA Free",
    "movie_url_2":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/usa/usa",
    "movie_category_url_2":"",
-   "vip_2":"true",
+   "vip_2":"false",
    "show_title_3":"USA VIP",
    "movie_url_3":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipusa/vipusa",
    "movie_category_url_3":"",
