@@ -9,7 +9,7 @@
    "startapp_home_adview_5":"false",
    "startapp_home_adview_6":"true",
    "startapp_home_adview_7":"false",
-   "startapp_home_adview_8":"true",
+   "startapp_home_adview_8":"false",
    
    
    "startapp_player_loader_adviews":"true",
@@ -58,7 +58,12 @@
        
    ],
     "home_adview_8":[
-     
+     {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/20240324_011431.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+     }
    ],
    "player_loader_adviews":[
       
