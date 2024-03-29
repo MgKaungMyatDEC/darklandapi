@@ -1,31 +1,66 @@
 [
   {
-    "key": "15 1 11 14 16",
-    "duration": 10,
-    "used": false
-  },
-  {
-    "key": "24 14 4 6 12",
-    "duration": 5,
-    "used": false
-  },
-  {
-    "key": "13 2 5 4 6",
+    "key": "11 3 9 23 1",
     "duration": 30,
     "used": false
   },
   {
-    "key": "9 19 11 23 20",
+    "key": "24 16 15 8 3",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "7 3 26 24 13",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "16 2 18 19 12",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "12 3 5 17 19",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "8 21 20 18 2",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "18 9 22 15 2",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "4 12 8 18 16",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "18 12 4 16 21",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "3 13 25 5 14",
+    "duration": 30,
+    "used": false
+  },
+  {
+    "key": "4 19 22 14 10",
     "duration": 60,
     "used": false
   },
   {
-    "key": "16 17 1 25 13",
+    "key": "26 25 17 2 6",
     "duration": 60,
     "used": false
   },
   {
-    "key": "25 18 19 17 14",
+    "key": "14 24 4 13 7",
     "duration": 90,
     "used": false
   }
