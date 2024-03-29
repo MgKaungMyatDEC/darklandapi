@@ -1,6 +1,6 @@
 {
    "ad_type":"startapp",
-   "startapp_ad_duration":"10000",
+   "startapp_ad_duration":"1000",
    "startapp_add":"true",
    "startapp_home_adview_1":"false",
    "startapp_home_adview_2":"true",
@@ -14,7 +14,7 @@
    
    "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"true",
-   "startapp_detail_big_adviews":"true",
+   "startapp_detail_big_adviews":"false",
    "startapp_download_tool_adviews":"false",
    "startapp_movies_bottom":"true",
    "startapp_home_bottom":"true",
