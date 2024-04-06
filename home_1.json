@@ -1,24 +1,24 @@
 {
-   "ad_type":"startapp",
-   "startapp_ad_duration":"10000",
+   "ad_type":"noads",
+   "startapp_ad_duration":"",
    "startapp_add":"true",
    "startapp_home_adview_1":"false",
-   "startapp_home_adview_2":"true",
+   "startapp_home_adview_2":"false",
    "startapp_home_adview_3":"false",
-   "startapp_home_adview_4":"true",
+   "startapp_home_adview_4":"false",
    "startapp_home_adview_5":"false",
-   "startapp_home_adview_6":"true",
+   "startapp_home_adview_6":"false",
    "startapp_home_adview_7":"false",
-   "startapp_home_adview_8":"true",
+   "startapp_home_adview_8":"false",
    
    
-   "startapp_player_loader_adviews":"true",
-   "startapp_detail_top_adviews":"true",
-   "startapp_detail_big_adviews":"true",
+   "startapp_player_loader_adviews":"false",
+   "startapp_detail_top_adviews":"false",
+   "startapp_detail_big_adviews":"false",
    "startapp_download_tool_adviews":"false",
-   "startapp_movies_bottom":"true",
-   "startapp_home_bottom":"true",
-   "startapp_movies_download":"true",
+   "startapp_movies_bottom":"false",
+   "startapp_home_bottom":"false",
+   "startapp_movies_download":"false",
    "startapp_link_download":"false",
    "remove_ads_url":"https://mmdarkland.xyz/vipmember.html",
    "vip_list_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/vipkeys/2024m03.json",
@@ -26,7 +26,7 @@
    "vip_add_url":"",
    "slide_images":[
       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRTZA45Suwf1hcwCZRsYm7ffUpnFCxiyaI3oA_zk9AS70-1S9oGZvBmkIcB1423yVIO7DmF05J-XqQxVkLZlcrLEvM1NLOTm4IB0sXSjvHM_YgxNHFerPt3tHeiOlsBnN_fCuuemEy99KkTy-04wZfS-uKBP7_dm1Mj5Ix-OwqDDOLu5bLlF6nRNJ915I/s1600/20231231_122716.jpg",
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/Orange%20Creative%20Big%20Sale%20Facebook%20Post.jpg",
          "redirect_url":"https://mmdarkland.xyz/vipmember.html"
       }
    ],
@@ -58,7 +58,12 @@
        
    ],
     "home_adview_8":[
-     
+     {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/20240324_011431.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+     }
    ],
    "player_loader_adviews":[
       
