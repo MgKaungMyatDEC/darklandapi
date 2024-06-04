@@ -136,13 +136,14 @@
    "movie_category_url_7":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
    "vip_7":"false",
    
-   "update_title":"Update title",
-   "update_icon":"",
-   "update_message":"Update message",
+   "update_title":"♨️Update version 1.0.2",
+   "update_icon":"https://c.tenor.com/SyyBm8FdDSUAAAAC/tenor.gif",
+   "update_message":"ဂေါင်းကြီးတို့ Updateတင်ပြီး အမုန်းကြိုက်လိုက်စို့ 🤩😋🥳...\n 🌚လက်ရှိသုံးပြုနေတဲ့versionကို မကြာမီ🚫 ပိတ်သွားတော့မှာဖြစ်ပါတယ်။ မြန်မြန်updateတင်ထားကြပါ😘😘 \nကျေးဇူးတင်ပါတယ်❤️။"
    "update_force":false,
-   "update_versionCode":1,
-   "playstore_link":"",
-   "download_link":"",
+   "update_versionCode":1000,
+   "playstore_link":"https://mmdarkland.xyz/update.html",
+   "download_link":"https://mmdarkland.xyz/update.html",
+   
    "noti_icon":"https://i.giphy.com/AWNxDbtHGIJDW.webp",
    "noti_title":"မြန်မာကားအကြိုက်",
    "noti_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRTZA45Suwf1hcwCZRsYm7ffUpnFCxiyaI3oA_zk9AS70-1S9oGZvBmkIcB1423yVIO7DmF05J-XqQxVkLZlcrLEvM1NLOTm4IB0sXSjvHM_YgxNHFerPt3tHeiOlsBnN_fCuuemEy99KkTy-04wZfS-uKBP7_dm1Mj5Ix-OwqDDOLu5bLlF6nRNJ915I/s1600/20231231_122716.jpg",
