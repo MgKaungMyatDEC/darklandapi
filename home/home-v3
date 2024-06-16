@@ -951,7 +951,7 @@
     "noti_image": "https://raw.githubusercontent.com/MgKaungMyatDEC/darklandapi/main/images/examads_big.png",
     "noti_message": "\u1006\u101a\u103a\u1010\u1014\u103a\u1038\u1016\u103c\u1031\u1011\u102c\u1038\u1010\u1032\u1037 \u100a\u102d\u102f\u1000\u102e\u1010\u102d\u102f\u1037\u1010\u103d\u1000\u103a \u1012\u1031\u102b\u1004\u103a\u1038\u1011\u102c\u1038\u101b\u1019\u101a\u1037\u103a \u1006\u1031\u102c\u1037\u101d\u1032\u101c\u103a\u101c\u1031\u1038\nThanks.",
     "show_cancel": false,
-    "noti_show": true,
+    "noti_show": false,
     "noti_done_text": "App\u101b\u101a\u1030\u1019\u100a\u103a",
     "noti_go_link": "https://bit.ly/ExamResults2024",
     "7": [
